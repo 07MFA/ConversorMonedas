@@ -41,4 +41,6 @@ Este proyecto es una aplicación escrita en Java que permite realizar conversion
 
 4. Ingresa el numero "0" para salir del conversor.
 
-## El proyecto continua en desarrollo
+## Estado del proyecto
+
+Continua en desarrollo para mejorar funcionalidades y optimizar codigo
